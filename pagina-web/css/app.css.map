@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACH,MAAM,EAAE,KAAK;EACb,UAAU,ECCH,OAAO;;ACHlB,OAAQ;EACJ,MAAM,EAAE,KAAK;EACb,UAAU,EDEF,OAAO;;AEJnB,MAAO;EACH,MAAM,EAAE,KAAK;EACb,UAAU,EFGA,OAAO",
+"sources": ["../sass/_header.scss","../sass/_variables.scss","../sass/_section.scss","../sass/_footer.scss"],
+"names": [],
+"file": "app.css"
+}
